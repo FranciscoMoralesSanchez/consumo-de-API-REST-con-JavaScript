@@ -21,7 +21,8 @@ function navigator() {
 
 function homePage() {
     console.log('Home!!');
-    getTredingMoviesPreview();
+    
+    getTredingMoviesPreview()
     getCategoriesPreview();
 }
 
