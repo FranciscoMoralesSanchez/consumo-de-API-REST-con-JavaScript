@@ -27,7 +27,7 @@ function navigator() {
     } else {
         homePage();
     }
-    
+    window.scrollTo(0, 0);
     location.hash
 }
 
